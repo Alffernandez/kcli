@@ -13,7 +13,7 @@ pg_port=''
 
 pg_database='awx'
 pg_username='awx'
-pg_password='{{ password }}'
+pg_password='{{ postgres123 }}'
 pg_sslmode='prefer' # set to 'verify-full' for client-side enforced SSL
 
 # Automation HUb Configuration
