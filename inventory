@@ -6,7 +6,7 @@ localhost ansible_connection=local
 [database]
 
 [all:vars]
-admin_password='{{ alfon}}'
+admin_password='{{ alfonvweqvcv}}'
 
 pg_host=''
 pg_port=''
